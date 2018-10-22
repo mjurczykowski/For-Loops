@@ -30,13 +30,13 @@ Use the functions that you wrote above to answer the following questions.  To so
 For each questions, type the answer instead of the question-mark (?) once you use the program to solve for it.  You will need to delete the checking code and write your own console.log() statements.
 
 
--  **Q1:**  1 + 2 + 3 + 4 + ... + 1500 = ?
+-  **Q1:**  1 + 2 + 3 + 4 + ... + 1500 = 1125750
 
 
--  **Q2:**  1 + 2 + 3 + 4 + ... + 2000000 = ?
+-  **Q2:**  1 + 2 + 3 + 4 + ... + 2000000 = 2000001000000
 
 
--  **Q3:**  -80 + -20 + 40 + 100 + ... (50 times) = ?
+-  **Q3:**  -80 + -20 + 40 + 100 + ... (50 times) = 69500
 
 
 -  **Q4:**  4 + 12 + 36 + 108 + ... + (under 50,000) = ?
